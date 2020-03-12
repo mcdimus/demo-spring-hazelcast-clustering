@@ -1,1 +1,6 @@
+spring:
+  hazelcast:
+    config: classpath:hazelcast-multicast.xml
+#    config: classpath:hazelcast-tcp-ip.xml
+#    config: file:/path/in/filesystem/hazelcast.xml
 
